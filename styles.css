@@ -1,0 +1,19 @@
+#mainT{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+div{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(194, 194, 194);
+    
+}
+
+button{
+    width:80px;
+    height:80px;
+    color:coral
+}
+
